@@ -32,3 +32,9 @@ thead tr th .icon-dn {
   margin: 0 5px;
   cursor: pointer;
 }
+
+.btn-primary {
+  background-color: #eee !important;
+  border: none !important;
+  color: black !important;
+}
